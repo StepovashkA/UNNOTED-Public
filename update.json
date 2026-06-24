@@ -1,23 +1,23 @@
 {
-  "version": "0.1.5",
-  "notes": "Release v0.1.5",
-  "pub_date": "2026-06-24T15:04:01.919Z",
+  "version": "0.1.6",
+  "notes": "Release v0.1.6",
+  "pub_date": "2026-06-24T18:57:42.545Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRHZhS2ZBcE54bzB5aHlkTHdTVGxRM0ZOS215TXJveEl0SVZwRVJjS2ttbkNUbi9Zck4ydTZlU1pQcFVhUmRkbWZlMU9PQnlYZmtJTThuUDJjRlVJVGRqaytHbmM4TlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzEzMjExCWZpbGU6VU5OT1RFRC5hcHAudGFyLmd6Ck1RbG81dzBxOWFmcWtzdUcrWXBpa1hJeHRLSzlqL0ZJbktrZGI1aWhJdEtONVlrdHlUZkJwTm1YY1MrWW9Cc1hnWUFFcVcxYzNyVnFPdTFMUm5iR0R3PT0K",
-      "url": "https://github.com/StepovashkA/UNNOTED-Public/releases/download/v0.1.5/UNNOTED_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRHZhS2ZBcE54b3dMUVFZbFdmOC9rdWQ4RmpQUVZ1QlNUZmlsS2lVOFhhallyTlB4UCtBU3QxS2xQcU9DZVh4aExqSFd1NjBQdnF1VFNDSCsvcFo0SEIxQXEzdWw5dUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzI3MTU1CWZpbGU6VU5OT1RFRC5hcHAudGFyLmd6CnhEbjNhMDFRdVE4NXJ6czBHN1loLzlCRFN4ZS9sWlVFcEtmWlpLRnZ0S1l2dVlRbmp2UkhRRlA1MjBXdC9lYWw5b01EUkhzN1MxRktoQlhvUm9hZ0FnPT0K",
+      "url": "https://github.com/StepovashkA/UNNOTED-Public/releases/download/v0.1.6/UNNOTED_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRHZhS2ZBcE54bzJKeEd6NGFKMDRlRklMekxBOUVZWm8vYzZnUUt0STRFNjg3cnUyOFVNYmcrSHUwNzAyTXJ5YjZmNitPZ29zWkhzd2llTXVGd2I1aUYxcXlSaFh4T1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzEzMzYxCWZpbGU6VU5OT1RFRF8wLjEuNV94NjRfZW4tVVMubXNpCnozL2t5SmVqNS9JemUvVklaUWN1TjFwZkpuTmJyTUd2SUQ3azFtUjRRU0dJQ0pvZHFHb29BL1ZwWVVjbENDWlZmWFpQK2wxWmUvTGZWVUxIYXllQ0NBPT0K",
-      "url": "https://github.com/StepovashkA/UNNOTED-Public/releases/download/v0.1.5/UNNOTED_0.1.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRHZhS2ZBcE54bzVsbmQxR0pGWnA2bzBLbHViU0FXaUhwb3orVjliV2JrWElXT004M29GYVoxdVpKaVlHemNaSHJKQTVyelhlQjZ4ajBlNGJDN1JrL3d0cmFIZ1dCZFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzI3Mzg3CWZpbGU6VU5OT1RFRF8wLjEuNl94NjRfZW4tVVMubXNpCnRLQUtLbE1ld0RUTmg1Z3dlcUxpZVVDSUxiUXNvZlVzYnFwOTg0THVuOC80bWw4NWFNay9IeU5nSkFMZkpON2xoZjJYZVhFclFxMU4yQlExdmhNUENnPT0K",
+      "url": "https://github.com/StepovashkA/UNNOTED-Public/releases/download/v0.1.6/UNNOTED_0.1.6_x64_en-US.msi"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRHZhS2ZBcE54b3pXZzd6OE1TZ1djU0NHRDZIb25adUZBVUt6WlZtQW5TQnorSzdaWTEyemtsRkhZS0RlenJEUC9SWTArbTQ3KzdXQVd4VTZFR0pmMnNITXltZnFlYXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzEzNDE4CWZpbGU6VU5OT1RFRF8wLjEuNV9hbWQ2NC5kZWIKVU95Rk03N2h2V016RGU4QjgxTVl5WTFTQVdmY2hQN1I2N280c0R6STVZZmhhbis5Zld6UjlVWjMvSGZNQVdpeklMT1NDeGJkUEJOczNkUmE5SUJVRHc9PQo=",
-      "url": "https://github.com/StepovashkA/UNNOTED-Public/releases/download/v0.1.5/UNNOTED_0.1.5_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRHZhS2ZBcE54bytIclp3c0owQlpBRUVTdjhNQ0xGajdhdnZxcllMeVZQdmxERGdad2VmQTFxeGdMeDVhc0UvVmZ1ZXNGWWJtdStqNjJhWDVzMllDT0k5SzQxNjJqUVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzI3NDM1CWZpbGU6VU5OT1RFRF8wLjEuNl9hbWQ2NC5kZWIKVXBLZFk0R3JNc0ptL2piM1JyMUxFbktCQlJIRFcyV1FEelQrTWNOSlRWYkUxbWhpRmY0bnNVb2pGV3JUaDNvbTN1UEpqOEcvOEt4ZW1iM0szYVh5Q3c9PQo=",
+      "url": "https://github.com/StepovashkA/UNNOTED-Public/releases/download/v0.1.6/UNNOTED_0.1.6_amd64.deb"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRHZhS2ZBcE54b3hxUW5mMlBVV3dBSmJBbWxxcnN4NHhnMHJQdTZQWFlseHp3RjhOZ0FReGp1TkhoSE9ZMTZDQzA3bytaQ3MrRjBncWxnU09MekJaSmNzeHRHTE83QXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzEzNDE4CWZpbGU6VU5OT1RFRF8wLjEuNV9hbWQ2NC5BcHBJbWFnZQo1NDkyRnhWbnZOMVFEbzgwZmhETFhTakVjeUdvUmE2QjhEaTFCdmRScEhLS0ZXWmNIZDlubkpsaXBQK2NmZ2ZhaDNHcHphNURWMWJiclhvWmhqMWlDUT09Cg==",
-      "url": "https://github.com/StepovashkA/UNNOTED-Public/releases/download/v0.1.5/UNNOTED_0.1.5_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRHZhS2ZBcE54bzJhL3FIYmh3YjI5VWM4cEhYT1VCeDJqb2FxNEw0dXJwbXg5Z3N6UjRXM1VSR2ZTR0xEUHJZNnhxaEpLdk5zaUVSU1pTdXhqMlk5UjgvQkt4MWVwdEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzI3NDM1CWZpbGU6VU5OT1RFRF8wLjEuNl9hbWQ2NC5BcHBJbWFnZQp3SFR6bnBvY3l3N1Vac1I3aEIyZU5CdldxQ3JHUzZOcTJJbGRJYWU5ZEU0cTN3Q2VCTGloM3pOVm40OHBlc2xEdzc1MFVCV0J4TThDVUJlSTMyWjFEUT09Cg==",
+      "url": "https://github.com/StepovashkA/UNNOTED-Public/releases/download/v0.1.6/UNNOTED_0.1.6_amd64.AppImage"
     }
   }
 }
